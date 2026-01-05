@@ -1,1 +1,1 @@
-
+-- SQL schema will be defined here
