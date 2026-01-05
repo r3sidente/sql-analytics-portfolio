@@ -1,1 +1,13 @@
-# sql-analytics-portfolio
+sql-analytics-portfolio/
+  README.md
+  data/
+    README.md
+  schema/
+    01_create_tables.sql
+  queries/
+    01_data_quality.sql
+    02_kpis.sql
+    03_cohorts.sql
+    04_product_analysis.sql
+  results/
+    insights.md.
